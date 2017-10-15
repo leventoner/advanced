@@ -2,5 +2,6 @@
   "name": "levent",
   "age": "38",
   "car": "BMW",
-  "city": "istanbul"
+  "city": "istanbul",
+  "street": "birlik"
 }
