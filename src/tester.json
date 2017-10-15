@@ -1,4 +1,6 @@
 {
   "name": "levent",
-  "age": "38"
+  "age": "38",
+  "car": "BMW",
+  "city": "istanbul"
 }
